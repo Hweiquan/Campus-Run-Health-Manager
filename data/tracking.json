@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-05-17",
+    "weight": 90.0,
+    "calorie_intake": 2000,
+    "calorie_burn": 500,
+    "steps": 7000,
+    "sleep_hours": 7.0
+  },
+  {
+    "date": "2026-05-30",
+    "weight": 60.0,
+    "calorie_intake": 2000,
+    "calorie_burn": 500,
+    "steps": 7000,
+    "sleep_hours": 7.0
+  }
+]
